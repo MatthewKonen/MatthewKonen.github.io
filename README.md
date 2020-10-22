@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-https://rtc.instructure.com/courses/1979927/assignments/20604022
 https://angular-ivy-scwzjr.stackblitz.io/
 
 You can use the [editor on GitHub](https://github.com/MatthewKonen/MatthewKonen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
